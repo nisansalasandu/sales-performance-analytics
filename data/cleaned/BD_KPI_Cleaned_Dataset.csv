@@ -1,0 +1,684 @@
+Lead_ID,Lead_Source,Lead_Date,Conversion_Status,Conversion_Date,Revenue_Value,Marketing_Cost,Sales_Representative,Region,Sales_Cycle_Days,Lead_Month,Lead_Year,Is_Converted
+LEAD-0043,Referral,2024-04-02,Not Converted,,0.0,3036.1,David Brown,East,,2024-04,2024,0
+LEAD-0199,Referral,2024-02-07,Converted,2024-06-06,10390.1,2639.44,Unassigned,West,120.0,2024-02,2024,1
+LEAD-0526,Email Campaign,2023-02-11,Not Converted,,0.0,3021.93,David Brown,West,,2023-02,2023,0
+LEAD-0638,Email Campaign,2023-09-09,Not Converted,,0.0,2639.44,David Brown,South,,2023-09,2023,0
+LEAD-0067,Website,2023-04-29,Not Converted,,0.0,2095.58,Unassigned,East,,2023-04,2023,0
+LEAD-0130,Email Campaign,2023-10-01,Not Converted,,0.0,4120.59,Alice Johnson,North,,2023-10,2023,0
+LEAD-0567,Social Media,2024-06-22,Converted,2024-08-15,12684.79,1676.86,Alice Johnson,South,54.0,2024-06,2024,1
+LEAD-0626,Referral,2024-03-09,Not Converted,,0.0,3148.67,Unassigned,North,,2024-03,2024,0
+LEAD-0680,Direct,2024-03-22,Not Converted,,0.0,3497.45,Unassigned,West,,2024-03,2024,0
+LEAD-0155,Direct,2023-09-28,Converted,2023-10-23,14310.82,4912.19,Unassigned,East,25.0,2023-09,2023,1
+LEAD-0032,Referral,2023-02-09,Not Converted,,0.0,1602.7,David Brown,Unknown,,2023-02,2023,0
+LEAD-0210,Website,2023-10-07,Not Converted,,0.0,4999.5,Bob Smith,East,,2023-10,2023,0
+LEAD-0494,Direct,2023-12-07,Converted,2024-01-14,37767.96,2897.39,Eve Davis,North,38.0,2023-12,2023,1
+LEAD-0109,Email Campaign,2023-11-27,Converted,2024-01-23,23711.59,2977.53,David Brown,East,57.0,2023-11,2023,1
+LEAD-0106,Email Campaign,2024-04-16,Converted,2024-06-11,12544.17,2009.05,Carol White,East,56.0,2024-04,2024,1
+LEAD-0053,Email Campaign,2023-10-10,Converted,2023-12-16,4737.84,3802.92,David Brown,East,67.0,2023-10,2023,1
+LEAD-0685,Direct,2024-03-17,Converted,2024-05-04,35350.34,4744.99,Bob Smith,West,48.0,2024-03,2024,1
+LEAD-0476,Social Media,2023-02-07,Converted,2023-03-23,20572.64,2639.44,Eve Davis,East,44.0,2023-02,2023,1
+LEAD-0204,Website,2023-03-29,Converted,2023-05-13,17481.8,1774.09,David Brown,North,45.0,2023-03,2023,1
+LEAD-0140,Social Media,2023-05-08,Converted,2023-06-16,8517.36,4740.04,Alice Johnson,North,39.0,2023-05,2023,1
+LEAD-0450,Email Campaign,2023-01-09,Not Converted,,0.0,358.93,Alice Johnson,West,,2023-01,2023,0
+LEAD-0007,Social Media,2023-11-20,Not Converted,,0.0,2857.54,David Brown,South,,2023-11,2023,0
+LEAD-0688,Social Media,2023-04-10,Not Converted,,0.0,4664.04,David Brown,North,,2023-04,2023,0
+LEAD-0540,Website,2023-10-07,Not Converted,,0.0,1769.22,Eve Davis,North,,2023-10,2023,0
+LEAD-0343,Social Media,2024-03-17,Not Converted,,0.0,1185.96,David Brown,North,,2024-03,2024,0
+LEAD-0548,Direct,2023-11-17,Not Converted,,0.0,3732.6,Alice Johnson,East,,2023-11,2023,0
+LEAD-0115,Direct,2024-03-09,Not Converted,,0.0,1741.58,Bob Smith,East,,2024-03,2024,0
+LEAD-0157,Email Campaign,2023-09-20,Not Converted,,0.0,4668.47,Eve Davis,Unknown,,2023-09,2023,0
+LEAD-0432,Direct,2023-05-20,Converted,2023-09-08,44656.89,3930.75,Frank Miller,West,111.0,2023-05,2023,1
+LEAD-0448,Website,2023-02-12,Converted,2023-12-14,40943.16,2639.44,Frank Miller,East,305.0,2023-02,2023,1
+LEAD-0279,Social Media,2024-02-18,Converted,2024-05-21,32942.33,2121.9,Unassigned,Unknown,93.0,2024-02,2024,1
+LEAD-0674,Social Media,2023-05-25,Converted,2023-06-06,29835.22,1219.74,Carol White,East,12.0,2023-05,2023,1
+LEAD-0428,Email Campaign,2023-10-22,Not Converted,,0.0,4639.17,Unassigned,East,,2023-10,2023,0
+LEAD-0467,Direct,2023-05-03,Not Converted,,0.0,4504.49,Alice Johnson,East,,2023-05,2023,0
+LEAD-0266,Email Campaign,2023-05-31,Converted,2023-06-23,48622.16,2145.71,Frank Miller,East,23.0,2023-05,2023,1
+LEAD-0042,Email Campaign,2024-04-22,Converted,2024-05-19,19779.1,146.68,David Brown,North,27.0,2024-04,2024,1
+LEAD-0119,Social Media,2023-07-24,Converted,2023-11-13,3082.9,4674.75,Alice Johnson,North,112.0,2023-07,2023,1
+LEAD-0566,Email Campaign,2023-04-26,Converted,2023-06-10,10584.82,3762.19,Frank Miller,Unknown,45.0,2023-04,2023,1
+LEAD-0063,Referral,2023-05-26,Converted,2023-06-17,29954.68,2223.81,David Brown,North,22.0,2023-05,2023,1
+LEAD-0164,Social Media,2023-09-25,Not Converted,,0.0,840.6,Unassigned,North,,2023-09,2023,0
+LEAD-0335,Email Campaign,2023-10-08,Not Converted,,0.0,1858.22,Eve Davis,North,,2023-10,2023,0
+LEAD-0015,Direct,2023-03-02,Converted,2023-06-26,43051.95,3361.44,Eve Davis,Unknown,116.0,2023-03,2023,1
+LEAD-0514,Unknown,2023-05-03,Not Converted,,0.0,856.09,Unassigned,East,,2023-05,2023,0
+LEAD-0287,Email Campaign,2024-06-20,Not Converted,,0.0,1746.53,Bob Smith,East,,2024-06,2024,0
+LEAD-0462,Email Campaign,2023-05-11,Not Converted,,0.0,1980.85,David Brown,North,,2023-05,2023,0
+LEAD-0148,Email Campaign,2023-07-19,Not Converted,,0.0,3833.8,Frank Miller,Unknown,,2023-07,2023,0
+LEAD-0286,Direct,2023-09-12,Not Converted,,0.0,876.75,Carol White,East,,2023-09,2023,0
+LEAD-0490,Referral,2023-09-11,Not Converted,,0.0,2979.27,Alice Johnson,South,,2023-09,2023,0
+LEAD-0298,Email Campaign,2023-08-18,Not Converted,,0.0,521.45,Carol White,South,,2023-08,2023,0
+LEAD-0095,Email Campaign,2024-06-01,Not Converted,,0.0,4271.32,Unassigned,West,,2024-06,2024,0
+LEAD-0214,Direct,2023-09-11,Converted,2023-11-08,17754.56,4970.09,Unassigned,Unknown,58.0,2023-09,2023,1
+LEAD-0420,Social Media,2023-04-04,Converted,2023-06-25,4722.67,4877.2,Eve Davis,South,82.0,2023-04,2023,1
+LEAD-0037,Referral,2023-05-31,Converted,,30758.06,4436.38,David Brown,East,,2023-05,2023,1
+LEAD-0242,Referral,2023-02-11,Not Converted,,0.0,4843.58,Carol White,North,,2023-02,2023,0
+LEAD-0319,Direct,2023-04-27,Not Converted,,0.0,2595.83,Carol White,West,,2023-04,2023,0
+LEAD-0650,Email Campaign,2023-12-15,Not Converted,,0.0,1087.44,Carol White,East,,2023-12,2023,0
+LEAD-0156,Website,2023-10-08,Converted,2023-12-21,19294.86,4775.31,Carol White,South,74.0,2023-10,2023,1
+LEAD-0018,Unknown,2023-04-11,Not Converted,,0.0,4635.52,David Brown,East,,2023-04,2023,0
+LEAD-0575,Direct,2024-05-30,Converted,,9387.83,462.29,Eve Davis,East,,2024-05,2024,1
+LEAD-0104,Social Media,2023-08-01,Not Converted,,0.0,2526.3,Alice Johnson,South,,2023-08,2023,0
+LEAD-0272,Unknown,2024-01-18,Not Converted,,0.0,721.47,Alice Johnson,East,,2024-01,2024,0
+LEAD-0349,Direct,2023-01-06,Converted,2023-03-08,22051.18,2639.44,David Brown,Unknown,61.0,2023-01,2023,1
+LEAD-0327,Email Campaign,2023-03-16,Converted,2023-04-18,10272.17,1817.83,Carol White,Unknown,33.0,2023-03,2023,1
+LEAD-0564,Referral,2023-09-28,Not Converted,,0.0,3830.19,Frank Miller,East,,2023-09,2023,0
+LEAD-0178,Direct,2023-07-15,Not Converted,,0.0,245.76,Eve Davis,West,,2023-07,2023,0
+LEAD-0172,Website,2023-08-24,Converted,2023-10-08,14144.66,608.58,Unassigned,North,45.0,2023-08,2023,1
+LEAD-0435,Website,2023-02-02,Not Converted,,0.0,1889.34,Eve Davis,North,,2023-02,2023,0
+LEAD-0265,Email Campaign,2023-08-30,Not Converted,,0.0,3585.81,Unassigned,Unknown,,2023-08,2023,0
+LEAD-0196,Referral,2023-11-05,Converted,2023-11-24,8776.77,3924.2,Unassigned,East,19.0,2023-11,2023,1
+LEAD-0340,Email Campaign,2024-05-08,Not Converted,,0.0,3983.35,Frank Miller,West,,2024-05,2024,0
+LEAD-0442,Unknown,2023-07-22,Converted,2023-11-18,28605.57,3508.07,Frank Miller,East,119.0,2023-07,2023,1
+LEAD-0427,Unknown,2023-10-09,Not Converted,,0.0,3079.67,Frank Miller,West,,2023-10,2023,0
+LEAD-0580,Email Campaign,2023-01-21,Not Converted,,0.0,2639.44,David Brown,East,,2023-01,2023,0
+LEAD-0237,Direct,2023-07-20,Not Converted,,0.0,168.36,Unassigned,North,,2023-07,2023,0
+LEAD-0054,Social Media,2023-10-29,Not Converted,,0.0,2392.64,Unassigned,West,,2023-10,2023,0
+LEAD-0696,Direct,2023-12-07,Not Converted,,0.0,3237.73,Unassigned,South,,2023-12,2023,0
+LEAD-0683,Email Campaign,2024-01-27,Not Converted,,0.0,4625.39,Eve Davis,North,,2024-01,2024,0
+LEAD-0593,Direct,2024-06-16,Not Converted,,0.0,2790.37,Carol White,North,,2024-06,2024,0
+LEAD-0554,Direct,2023-08-07,Converted,2023-09-07,10403.73,598.6,Unassigned,East,31.0,2023-08,2023,1
+LEAD-0440,Referral,2023-05-25,Not Converted,,0.0,2725.86,Frank Miller,North,,2023-05,2023,0
+LEAD-0579,Website,2023-07-15,Not Converted,,0.0,157.99,Unassigned,East,,2023-07,2023,0
+LEAD-0663,Social Media,2023-10-29,Not Converted,,0.0,3403.05,Bob Smith,North,,2023-10,2023,0
+LEAD-0315,Referral,2023-09-28,Converted,2023-12-12,779.43,247.71,Unassigned,Unknown,75.0,2023-09,2023,1
+LEAD-0636,Email Campaign,2023-08-07,Converted,2023-11-10,40459.93,2639.44,Alice Johnson,North,95.0,2023-08,2023,1
+LEAD-0062,Email Campaign,2023-03-14,Not Converted,,0.0,3322.86,Eve Davis,West,,2023-03,2023,0
+LEAD-0009,Social Media,2024-05-06,Converted,2024-09-10,43124.59,3418.38,Eve Davis,East,127.0,2024-05,2024,1
+LEAD-0585,Social Media,2023-06-27,Converted,2023-09-13,5494.73,1553.08,Alice Johnson,North,78.0,2023-06,2023,1
+LEAD-0124,Email Campaign,2023-09-05,Not Converted,,0.0,1240.79,Alice Johnson,West,,2023-09,2023,0
+LEAD-0127,Website,2023-06-29,Converted,2023-09-18,40669.14,2315.51,Bob Smith,North,81.0,2023-06,2023,1
+LEAD-0653,Referral,2024-05-01,Not Converted,,0.0,511.55,Alice Johnson,Unknown,,2024-05,2024,0
+LEAD-0669,Social Media,2023-11-29,Converted,2024-01-11,31950.0,4265.19,Eve Davis,Unknown,43.0,2023-11,2023,1
+LEAD-0424,Referral,2023-02-20,Converted,2023-02-28,2317.69,4198.17,Alice Johnson,South,8.0,2023-02,2023,1
+LEAD-0370,Website,2023-11-30,Converted,2024-03-21,46775.45,4745.01,David Brown,Unknown,112.0,2023-11,2023,1
+LEAD-0033,Social Media,2024-03-22,Not Converted,,0.0,3611.18,Carol White,South,,2024-03,2024,0
+LEAD-0644,Website,2023-08-12,Not Converted,,0.0,4680.72,Bob Smith,South,,2023-08,2023,0
+LEAD-0464,Direct,2023-10-07,Not Converted,,0.0,2332.49,Frank Miller,Unknown,,2023-10,2023,0
+LEAD-0556,Unknown,2023-08-18,Converted,2023-12-15,32531.78,4871.93,Bob Smith,North,119.0,2023-08,2023,1
+LEAD-0500,Social Media,2023-01-23,Not Converted,,0.0,3296.01,Frank Miller,West,,2023-01,2023,0
+LEAD-0408,Website,2023-01-31,Not Converted,,0.0,3301.81,Frank Miller,Unknown,,2023-01,2023,0
+LEAD-0175,Referral,2023-10-09,Not Converted,,0.0,4562.31,David Brown,North,,2023-10,2023,0
+LEAD-0020,Email Campaign,2023-06-08,Not Converted,,0.0,3752.48,Eve Davis,West,,2023-06,2023,0
+LEAD-0107,Direct,2023-04-27,Not Converted,,0.0,1787.94,Bob Smith,West,,2023-04,2023,0
+LEAD-0661,Direct,2024-04-17,Not Converted,,0.0,2639.44,Unassigned,East,,2024-04,2024,0
+LEAD-0518,Social Media,2023-04-15,Converted,2023-06-19,41662.89,3463.78,Unassigned,West,65.0,2023-04,2023,1
+LEAD-0607,Direct,2023-11-13,Converted,2024-02-04,4715.03,3800.2,Unassigned,East,83.0,2023-11,2023,1
+LEAD-0134,Email Campaign,2023-05-21,Not Converted,,0.0,1285.58,David Brown,West,,2023-05,2023,0
+LEAD-0345,Social Media,2024-06-16,Not Converted,,0.0,1613.71,Frank Miller,Unknown,,2024-06,2024,0
+LEAD-0508,Social Media,2024-05-01,Converted,2024-06-04,18796.68,1789.21,Alice Johnson,West,34.0,2024-05,2024,1
+LEAD-0400,Email Campaign,2023-07-22,Not Converted,,0.0,1249.46,Frank Miller,Unknown,,2023-07,2023,0
+LEAD-0466,Website,2023-08-13,Not Converted,,0.0,331.57,Bob Smith,Unknown,,2023-08,2023,0
+LEAD-0446,Email Campaign,2024-03-17,Not Converted,,0.0,1218.96,Unassigned,Unknown,,2024-03,2024,0
+LEAD-0234,Website,2023-06-03,Converted,2023-08-13,11613.51,1633.68,Alice Johnson,West,71.0,2023-06,2023,1
+LEAD-0160,Social Media,2024-03-03,Converted,2024-06-19,39504.05,4367.84,Carol White,Unknown,108.0,2024-03,2024,1
+LEAD-0355,Direct,2023-08-14,Not Converted,,0.0,3519.05,David Brown,North,,2023-08,2023,0
+LEAD-0091,Email Campaign,2023-01-03,Converted,2023-01-20,12907.38,2639.44,Eve Davis,North,17.0,2023-01,2023,1
+LEAD-0376,Website,2023-01-20,Converted,2023-03-30,9703.91,3590.22,Bob Smith,North,69.0,2023-01,2023,1
+LEAD-0699,Email Campaign,2023-08-16,Not Converted,,0.0,1613.83,Bob Smith,East,,2023-08,2023,0
+LEAD-0406,Website,2024-06-04,Not Converted,,0.0,485.7,Eve Davis,North,,2024-06,2024,0
+LEAD-0084,Social Media,2023-05-25,Not Converted,,0.0,1860.59,Eve Davis,South,,2023-05,2023,0
+LEAD-0114,Referral,2024-02-06,Not Converted,,0.0,3235.29,Unassigned,West,,2024-02,2024,0
+LEAD-0117,Social Media,2023-07-05,Converted,,2662.78,4849.46,Unassigned,East,,2023-07,2023,1
+LEAD-0076,Website,2024-05-14,Converted,2024-08-02,12121.13,1176.06,Unassigned,South,80.0,2024-05,2024,1
+LEAD-0507,Direct,2023-10-12,Converted,2023-10-23,42547.84,4880.41,Eve Davis,Unknown,11.0,2023-10,2023,1
+LEAD-0664,Email Campaign,2023-10-08,Converted,2023-11-26,32230.1,1983.56,Alice Johnson,North,49.0,2023-10,2023,1
+LEAD-0143,Direct,2024-02-20,Converted,2024-03-01,8324.98,1733.95,Carol White,North,10.0,2024-02,2024,1
+LEAD-0604,Referral,2023-10-18,Converted,2024-01-31,603.24,271.18,David Brown,North,105.0,2023-10,2023,1
+LEAD-0081,Email Campaign,2023-02-20,Converted,2023-06-07,38899.18,1134.07,Unassigned,East,107.0,2023-02,2023,1
+LEAD-0510,Social Media,2023-08-01,Converted,2023-11-21,49338.6,3792.76,Carol White,South,112.0,2023-08,2023,1
+LEAD-0451,Website,2023-04-23,Converted,2023-05-24,35259.98,1944.81,Frank Miller,East,31.0,2023-04,2023,1
+LEAD-0023,Direct,2023-03-16,Converted,2023-06-04,49806.77,1362.74,Bob Smith,North,80.0,2023-03,2023,1
+LEAD-0681,Social Media,2024-01-06,Converted,2024-02-09,23045.8,3030.64,Alice Johnson,South,34.0,2024-01,2024,1
+LEAD-0509,Email Campaign,2024-01-03,Not Converted,,0.0,4493.73,Frank Miller,Unknown,,2024-01,2024,0
+LEAD-0455,Social Media,2024-05-09,Converted,2024-07-23,48106.02,2655.72,Carol White,East,75.0,2024-05,2024,1
+LEAD-0249,Email Campaign,2024-06-26,Not Converted,,0.0,545.66,Frank Miller,North,,2024-06,2024,0
+LEAD-0320,Social Media,2023-04-09,Not Converted,,0.0,1093.37,Frank Miller,South,,2023-04,2023,0
+LEAD-0504,Email Campaign,2023-06-16,Not Converted,,0.0,3854.16,Bob Smith,North,,2023-06,2023,0
+LEAD-0479,Unknown,2024-02-16,Converted,2024-05-14,27521.3,2639.44,Carol White,South,88.0,2024-02,2024,1
+LEAD-0412,Direct,2023-10-08,Not Converted,,0.0,3047.74,Bob Smith,North,,2023-10,2023,0
+LEAD-0693,Referral,2023-05-27,Not Converted,,0.0,207.14,Frank Miller,West,,2023-05,2023,0
+LEAD-0314,Email Campaign,2023-07-21,Not Converted,,0.0,418.62,Alice Johnson,South,,2023-07,2023,0
+LEAD-0484,Social Media,2023-02-06,Converted,2023-06-25,23915.81,1461.07,Unassigned,East,139.0,2023-02,2023,1
+LEAD-0701,Website,2023-08-02,Not Converted,,0.0,1369.76,Carol White,South,,2023-08,2023,0
+LEAD-0425,Social Media,2023-06-15,Not Converted,,0.0,2882.8,Unassigned,Unknown,,2023-06,2023,0
+LEAD-0578,Direct,2024-02-09,Converted,2024-02-26,1186.86,4854.08,Frank Miller,East,17.0,2024-02,2024,1
+LEAD-0597,Email Campaign,2023-04-24,Not Converted,,0.0,662.87,David Brown,North,,2023-04,2023,0
+LEAD-0379,Social Media,2023-07-23,Converted,2023-09-28,23904.86,1649.16,Eve Davis,West,67.0,2023-07,2023,1
+LEAD-0256,Social Media,2023-09-01,Not Converted,,0.0,489.19,Carol White,East,,2023-09,2023,0
+LEAD-0227,Social Media,2023-04-09,Not Converted,,0.0,109.73,David Brown,Unknown,,2023-04,2023,0
+LEAD-0111,Website,2024-05-02,Converted,2024-10-05,5623.34,3585.86,Bob Smith,East,156.0,2024-05,2024,1
+LEAD-0026,Unknown,2023-02-22,Not Converted,,0.0,3867.04,Unassigned,East,,2023-02,2023,0
+LEAD-0383,Email Campaign,2023-07-17,Not Converted,,0.0,2452.25,Unassigned,East,,2023-07,2023,0
+LEAD-0609,Social Media,2024-05-18,Not Converted,,0.0,1940.95,Eve Davis,East,,2024-05,2024,0
+LEAD-0702,Direct,2024-03-05,Not Converted,,0.0,3029.34,Eve Davis,North,,2024-03,2024,0
+LEAD-0323,Unknown,2023-03-16,Not Converted,,0.0,1541.69,David Brown,South,,2023-03,2023,0
+LEAD-0393,Email Campaign,2023-09-18,Converted,2023-11-15,23915.81,2999.03,Carol White,North,58.0,2023-09,2023,1
+LEAD-0294,Unknown,2023-10-25,Not Converted,,0.0,97.88,Carol White,North,,2023-10,2023,0
+LEAD-0584,Referral,2024-04-02,Not Converted,,0.0,4230.43,Unassigned,South,,2024-04,2024,0
+LEAD-0553,Website,2023-07-12,Converted,2024-03-22,35074.87,3030.47,David Brown,North,254.0,2023-07,2023,1
+LEAD-0461,Referral,2024-03-26,Not Converted,,0.0,318.91,Alice Johnson,East,,2024-03,2024,0
+LEAD-0013,Unknown,2023-03-12,Converted,2023-03-29,47369.01,3052.64,Unassigned,West,17.0,2023-03,2023,1
+LEAD-0082,Direct,2023-02-10,Converted,2023-02-15,18560.63,1667.26,Unassigned,West,5.0,2023-02,2023,1
+LEAD-0219,Email Campaign,2024-01-02,Not Converted,,0.0,4133.0,Carol White,North,,2024-01,2024,0
+LEAD-0108,Referral,2023-07-22,Not Converted,,0.0,423.0,David Brown,Unknown,,2023-07,2023,0
+LEAD-0367,Referral,2023-10-01,Not Converted,,0.0,3752.08,Bob Smith,East,,2023-10,2023,0
+LEAD-0307,Website,2023-10-29,Converted,2023-11-16,30324.96,4223.22,Unassigned,West,18.0,2023-10,2023,1
+LEAD-0411,Email Campaign,2023-06-11,Converted,2023-08-22,47455.78,4404.21,David Brown,South,72.0,2023-06,2023,1
+LEAD-0278,Referral,2023-04-21,Converted,2023-06-04,32209.44,3569.91,Bob Smith,West,44.0,2023-04,2023,1
+LEAD-0029,Direct,2023-01-07,Converted,2023-07-24,39228.13,3688.53,Unassigned,South,198.0,2023-01,2023,1
+LEAD-0078,Unknown,2024-01-27,Not Converted,,0.0,1199.33,Frank Miller,North,,2024-01,2024,0
+LEAD-0635,Unknown,2023-12-10,Not Converted,,0.0,4386.72,Alice Johnson,West,,2023-12,2023,0
+LEAD-0165,Direct,2023-10-30,Not Converted,,0.0,2417.0,Carol White,South,,2023-10,2023,0
+LEAD-0613,Social Media,2023-11-08,Not Converted,,0.0,2527.14,Eve Davis,East,,2023-11,2023,0
+LEAD-0512,Direct,2023-01-03,Not Converted,,0.0,3200.98,Carol White,South,,2023-01,2023,0
+LEAD-0016,Direct,2024-04-29,Not Converted,,0.0,1803.77,Alice Johnson,South,,2024-04,2024,0
+LEAD-0239,Email Campaign,2024-02-27,Converted,2024-06-02,29248.15,2002.04,Frank Miller,East,96.0,2024-02,2024,1
+LEAD-0191,Website,2023-08-26,Not Converted,,0.0,2998.26,Frank Miller,North,,2023-08,2023,0
+LEAD-0689,Website,2023-11-19,Not Converted,,0.0,4877.76,Alice Johnson,East,,2023-11,2023,0
+LEAD-0259,Social Media,2023-03-17,Converted,2023-09-07,8464.77,4891.31,David Brown,North,174.0,2023-03,2023,1
+LEAD-0060,Email Campaign,2024-01-25,Converted,2024-03-04,49506.55,3067.67,Bob Smith,West,39.0,2024-01,2024,1
+LEAD-0598,Social Media,2024-04-09,Not Converted,,0.0,2849.71,Eve Davis,Unknown,,2024-04,2024,0
+LEAD-0422,Social Media,2023-07-27,Not Converted,,0.0,4284.28,David Brown,West,,2023-07,2023,0
+LEAD-0309,Direct,2023-11-27,Not Converted,,0.0,4716.23,Frank Miller,West,,2023-11,2023,0
+LEAD-0231,Referral,2023-06-29,Converted,2023-09-28,35224.23,2638.88,Bob Smith,North,91.0,2023-06,2023,1
+LEAD-0687,Social Media,2023-12-17,Not Converted,,0.0,97.06,Frank Miller,Unknown,,2023-12,2023,0
+LEAD-0516,Direct,2023-07-07,Not Converted,,0.0,4368.59,Carol White,North,,2023-07,2023,0
+LEAD-0633,Email Campaign,2023-12-18,Not Converted,,0.0,3305.5,Frank Miller,West,,2023-12,2023,0
+LEAD-0642,Social Media,2024-04-26,Converted,2024-05-18,19711.73,1902.62,Unassigned,North,22.0,2024-04,2024,1
+LEAD-0502,Referral,2024-04-11,Not Converted,,0.0,1461.97,Unassigned,East,,2024-04,2024,0
+LEAD-0535,Direct,2023-10-19,Converted,2023-10-23,2733.36,2639.44,David Brown,South,4.0,2023-10,2023,1
+LEAD-0333,Social Media,2024-04-01,Converted,2024-06-13,33140.96,2443.34,David Brown,West,73.0,2024-04,2024,1
+LEAD-0268,Website,2023-04-26,Converted,2023-05-15,29602.74,4628.39,Carol White,West,19.0,2023-04,2023,1
+LEAD-0565,Social Media,2023-02-25,Converted,,13381.09,4976.25,Carol White,West,,2023-02,2023,1
+LEAD-0050,Website,2023-03-12,Not Converted,,0.0,572.42,Frank Miller,East,,2023-03,2023,0
+LEAD-0071,Social Media,2023-03-13,Not Converted,,0.0,2639.44,Frank Miller,Unknown,,2023-03,2023,0
+LEAD-0690,Website,2023-05-23,Not Converted,,0.0,4757.76,David Brown,Unknown,,2023-05,2023,0
+LEAD-0103,Direct,2024-05-13,Not Converted,,0.0,88.05,Bob Smith,North,,2024-05,2024,0
+LEAD-0034,Direct,2023-12-05,Not Converted,,0.0,2560.26,Unassigned,North,,2023-12,2023,0
+LEAD-0031,Referral,2023-03-13,Not Converted,,0.0,4699.22,Bob Smith,Unknown,,2023-03,2023,0
+LEAD-0059,Social Media,2023-06-05,Not Converted,,0.0,636.34,Unassigned,Unknown,,2023-06,2023,0
+LEAD-0384,Social Media,2023-12-23,Converted,2024-01-28,45766.46,817.38,Carol White,East,36.0,2023-12,2023,1
+LEAD-0482,Referral,2024-06-19,Not Converted,,0.0,3001.55,Alice Johnson,North,,2024-06,2024,0
+LEAD-0162,Direct,2024-04-14,Converted,2024-04-16,39643.0,918.7,Frank Miller,South,2.0,2024-04,2024,1
+LEAD-0686,Social Media,2023-07-16,Not Converted,,0.0,590.52,Alice Johnson,South,,2023-07,2023,0
+LEAD-0632,Referral,2023-05-21,Converted,2023-06-07,29433.85,1820.83,Bob Smith,East,17.0,2023-05,2023,1
+LEAD-0419,Social Media,2023-03-07,Not Converted,,0.0,4418.61,Frank Miller,East,,2023-03,2023,0
+LEAD-0619,Unknown,2024-03-31,Not Converted,,0.0,1964.42,Alice Johnson,South,,2024-03,2024,0
+LEAD-0405,Email Campaign,2023-01-09,Not Converted,,0.0,4568.7,Carol White,South,,2023-01,2023,0
+LEAD-0229,Website,2024-02-16,Not Converted,,0.0,1584.04,Unassigned,East,,2024-02,2024,0
+LEAD-0296,Direct,2023-06-20,Converted,2023-09-18,49087.67,4560.57,David Brown,East,90.0,2023-06,2023,1
+LEAD-0572,Email Campaign,2023-10-07,Not Converted,,0.0,4867.7,Unassigned,East,,2023-10,2023,0
+LEAD-0390,Referral,2024-06-28,Not Converted,,0.0,2871.64,Eve Davis,South,,2024-06,2024,0
+LEAD-0692,Referral,2024-11-05,Not Converted,,0.0,4935.01,Unassigned,South,,2024-11,2024,0
+LEAD-0441,Social Media,2023-03-30,Not Converted,,0.0,2984.14,Eve Davis,North,,2023-03,2023,0
+LEAD-0665,Direct,2023-07-26,Not Converted,,0.0,2137.33,Bob Smith,South,,2023-07,2023,0
+LEAD-0679,Website,2024-01-29,Not Converted,,0.0,2639.44,David Brown,Unknown,,2024-01,2024,0
+LEAD-0233,Email Campaign,2023-06-20,Converted,2023-07-23,44766.29,2639.44,Bob Smith,North,33.0,2023-06,2023,1
+LEAD-0703,Email Campaign,2023-11-20,Converted,2023-12-25,44512.46,3248.59,Bob Smith,North,35.0,2023-11,2023,1
+LEAD-0171,Website,2023-05-02,Not Converted,,0.0,4182.37,David Brown,West,,2023-05,2023,0
+LEAD-0226,Referral,2023-10-19,Not Converted,,0.0,983.8,Unassigned,West,,2023-10,2023,0
+LEAD-0574,Referral,2023-02-18,Converted,2023-06-16,25914.02,2350.05,Carol White,North,118.0,2023-02,2023,1
+LEAD-0260,Direct,2023-06-18,Not Converted,,0.0,4873.27,Unassigned,West,,2023-06,2023,0
+LEAD-0559,Referral,2024-03-04,Not Converted,,0.0,1215.65,Eve Davis,East,,2024-03,2024,0
+LEAD-0331,Email Campaign,2024-02-19,Not Converted,,0.0,2740.17,Unassigned,East,,2024-02,2024,0
+LEAD-0573,Email Campaign,2024-06-21,Not Converted,,0.0,1536.95,Carol White,West,,2024-06,2024,0
+LEAD-0288,Direct,2024-02-18,Not Converted,,0.0,2639.44,Alice Johnson,North,,2024-02,2024,0
+LEAD-0517,Direct,2024-01-07,Not Converted,,0.0,113.84,David Brown,South,,2024-01,2024,0
+LEAD-0477,Referral,2023-03-15,Converted,2023-05-17,23825.37,3521.42,Alice Johnson,North,63.0,2023-03,2023,1
+LEAD-0131,Referral,2024-04-01,Not Converted,,0.0,259.66,David Brown,North,,2024-04,2024,0
+LEAD-0297,Direct,2024-01-03,Converted,2024-04-23,24412.44,2231.41,Alice Johnson,West,111.0,2024-01,2024,1
+LEAD-0397,Website,2024-03-02,Not Converted,,0.0,4646.83,Alice Johnson,North,,2024-03,2024,0
+LEAD-0159,Email Campaign,2024-05-03,Not Converted,,0.0,4544.29,Eve Davis,North,,2024-05,2024,0
+LEAD-0244,Website,2023-03-28,Not Converted,,0.0,157.91,David Brown,East,,2023-03,2023,0
+LEAD-0655,Social Media,2023-05-13,Not Converted,,0.0,693.16,Unassigned,East,,2023-05,2023,0
+LEAD-0415,Website,2024-04-13,Not Converted,,0.0,3614.99,Eve Davis,Unknown,,2024-04,2024,0
+LEAD-0646,Website,2023-01-26,Converted,2023-02-25,32445.07,4220.89,Unassigned,North,30.0,2023-01,2023,1
+LEAD-0542,Email Campaign,2024-05-26,Converted,2024-06-30,40542.21,4676.45,Bob Smith,North,35.0,2024-05,2024,1
+LEAD-0075,Social Media,2023-03-18,Not Converted,,0.0,3266.69,Frank Miller,West,,2023-03,2023,0
+LEAD-0498,Website,2023-03-09,Converted,2023-03-21,19838.78,430.89,Bob Smith,East,12.0,2023-03,2023,1
+LEAD-0378,Email Campaign,2023-07-05,Not Converted,,0.0,653.71,Unassigned,East,,2023-07,2023,0
+LEAD-0557,Website,2023-09-24,Converted,2023-11-11,47388.55,2204.04,Frank Miller,East,48.0,2023-09,2023,1
+LEAD-0189,Email Campaign,2023-02-03,Not Converted,,0.0,3773.66,Alice Johnson,North,,2023-02,2023,0
+LEAD-0418,Direct,2024-06-13,Converted,2024-09-28,4976.82,2947.97,David Brown,South,107.0,2024-06,2024,1
+LEAD-0344,Direct,2023-11-04,Converted,,38410.02,3011.55,Alice Johnson,North,,2023-11,2023,1
+LEAD-0433,Direct,2023-11-20,Not Converted,,0.0,1692.01,Alice Johnson,East,,2023-11,2023,0
+LEAD-0610,Social Media,2023-09-19,Converted,2023-10-29,34091.12,948.22,Alice Johnson,North,40.0,2023-09,2023,1
+LEAD-0354,Email Campaign,2024-05-10,Not Converted,,0.0,4487.79,Carol White,South,,2024-05,2024,0
+LEAD-0014,Website,2024-01-18,Not Converted,,0.0,1723.52,Bob Smith,North,,2024-01,2024,0
+LEAD-0369,Email Campaign,2023-06-09,Not Converted,,0.0,2243.64,Bob Smith,North,,2023-06,2023,0
+LEAD-0629,Email Campaign,2023-02-26,Not Converted,,0.0,2818.33,Alice Johnson,Unknown,,2023-02,2023,0
+LEAD-0197,Referral,2024-04-13,Converted,2024-05-22,47466.76,4030.18,Frank Miller,Unknown,39.0,2024-04,2024,1
+LEAD-0471,Social Media,2024-05-24,Converted,2024-09-21,33397.99,4527.86,Unassigned,East,120.0,2024-05,2024,1
+LEAD-0303,Referral,2023-01-03,Not Converted,,0.0,1495.32,Alice Johnson,East,,2023-01,2023,0
+LEAD-0089,Website,2024-01-03,Not Converted,,0.0,4747.6,Bob Smith,Unknown,,2024-01,2024,0
+LEAD-0622,Email Campaign,2024-05-27,Converted,2024-08-06,33162.0,2847.44,Alice Johnson,East,71.0,2024-05,2024,1
+LEAD-0457,Email Campaign,2023-06-12,Not Converted,,0.0,2639.44,Unassigned,Unknown,,2023-06,2023,0
+LEAD-0515,Social Media,2023-10-07,Not Converted,,0.0,291.14,Alice Johnson,West,,2023-10,2023,0
+LEAD-0341,Direct,2023-12-17,Not Converted,,0.0,2639.44,Frank Miller,East,,2023-12,2023,0
+LEAD-0654,Social Media,2023-07-23,Not Converted,,0.0,2300.59,Carol White,South,,2023-07,2023,0
+LEAD-0538,Website,2023-11-04,Converted,,17130.39,1730.72,David Brown,West,,2023-11,2023,1
+LEAD-0480,Social Media,2024-03-01,Not Converted,,0.0,710.19,David Brown,East,,2024-03,2024,0
+LEAD-0704,Referral,2023-09-13,Not Converted,,0.0,288.33,Bob Smith,South,,2023-09,2023,0
+LEAD-0205,Social Media,2023-04-28,Not Converted,,0.0,863.55,Bob Smith,West,,2023-04,2023,0
+LEAD-0167,Email Campaign,2023-07-27,Not Converted,,0.0,625.39,Alice Johnson,West,,2023-07,2023,0
+LEAD-0465,Email Campaign,2023-12-12,Not Converted,,0.0,2639.44,Eve Davis,South,,2023-12,2023,0
+LEAD-0493,Direct,2023-01-25,Converted,2023-05-04,43772.85,1883.58,Frank Miller,South,99.0,2023-01,2023,1
+LEAD-0497,Email Campaign,2024-03-09,Converted,2024-03-18,17588.72,657.41,Eve Davis,North,9.0,2024-03,2024,1
+LEAD-0350,Referral,2023-02-28,Converted,2023-04-26,10484.51,2639.44,Eve Davis,East,57.0,2023-02,2023,1
+LEAD-0470,Direct,2024-05-18,Converted,2024-07-27,11310.13,3591.23,Eve Davis,North,70.0,2024-05,2024,1
+LEAD-0398,Website,2023-06-03,Not Converted,,0.0,4856.65,Alice Johnson,West,,2023-06,2023,0
+LEAD-0472,Website,2023-03-13,Not Converted,,0.0,4098.98,Carol White,North,,2023-03,2023,0
+LEAD-0289,Direct,2023-08-02,Not Converted,,0.0,2639.44,Frank Miller,North,,2023-08,2023,0
+LEAD-0017,Direct,2023-12-14,Not Converted,,0.0,743.9,Frank Miller,South,,2023-12,2023,0
+LEAD-0170,Direct,2023-05-19,Not Converted,,0.0,1909.45,Eve Davis,East,,2023-05,2023,0
+LEAD-0216,Direct,2023-10-27,Not Converted,,0.0,4928.17,Unassigned,South,,2023-10,2023,0
+LEAD-0300,Direct,2024-01-23,Not Converted,,0.0,485.7,David Brown,North,,2024-01,2024,0
+LEAD-0364,Unknown,2023-09-18,Converted,2023-11-15,13358.57,4059.58,Carol White,Unknown,58.0,2023-09,2023,1
+LEAD-0621,Direct,2023-08-15,Converted,2023-10-01,14397.44,1084.98,David Brown,South,47.0,2023-08,2023,1
+LEAD-0563,Website,2024-06-27,Converted,2024-07-31,16006.85,4868.19,David Brown,North,34.0,2024-06,2024,1
+LEAD-0513,Direct,2023-09-08,Converted,2023-12-15,24905.99,1840.71,Carol White,East,98.0,2023-09,2023,1
+LEAD-0057,Social Media,2024-06-30,Not Converted,,0.0,3502.22,David Brown,South,,2024-06,2024,0
+LEAD-0313,Direct,2023-11-17,Converted,2023-11-19,10552.82,2243.17,Unassigned,North,2.0,2023-11,2023,1
+LEAD-0678,Social Media,2023-12-08,Converted,2024-01-03,23915.81,3665.32,David Brown,South,26.0,2023-12,2023,1
+LEAD-0603,Social Media,2023-05-01,Not Converted,,0.0,188.49,David Brown,North,,2023-05,2023,0
+LEAD-0223,Unknown,2024-03-08,Converted,2024-03-18,19461.96,1601.09,Unassigned,East,10.0,2024-03,2024,1
+LEAD-0318,Email Campaign,2023-01-10,Not Converted,,0.0,3087.82,Frank Miller,North,,2023-01,2023,0
+LEAD-0072,Direct,2024-05-16,Converted,2024-07-24,17583.64,2303.96,Unassigned,West,69.0,2024-05,2024,1
+LEAD-0083,Website,2024-06-27,Not Converted,,0.0,4838.55,Unassigned,South,,2024-06,2024,0
+LEAD-0454,Website,2023-12-30,Converted,2024-02-23,867.78,3575.04,Eve Davis,North,55.0,2023-12,2023,1
+LEAD-0684,Referral,2023-03-08,Not Converted,,0.0,57.81,Eve Davis,South,,2023-03,2023,0
+LEAD-0342,Social Media,2024-05-02,Not Converted,,0.0,2541.48,Bob Smith,Unknown,,2024-05,2024,0
+LEAD-0560,Email Campaign,2023-05-17,Not Converted,,0.0,3556.84,Alice Johnson,West,,2023-05,2023,0
+LEAD-0275,Website,2023-02-20,Not Converted,,0.0,3254.53,David Brown,West,,2023-02,2023,0
+LEAD-0439,Direct,2024-03-27,Not Converted,,0.0,4793.58,Eve Davis,North,,2024-03,2024,0
+LEAD-0431,Website,2024-02-10,Not Converted,,0.0,1010.38,David Brown,East,,2024-02,2024,0
+LEAD-0187,Referral,2023-08-20,Converted,2023-11-12,5128.28,2639.44,Alice Johnson,East,84.0,2023-08,2023,1
+LEAD-0353,Email Campaign,2023-03-16,Not Converted,,0.0,4386.76,Unassigned,East,,2023-03,2023,0
+LEAD-0356,Social Media,2024-05-02,Not Converted,,0.0,954.78,Bob Smith,East,,2024-05,2024,0
+LEAD-0203,Direct,2023-08-15,Not Converted,,0.0,2963.52,Alice Johnson,East,,2023-08,2023,0
+LEAD-0241,Email Campaign,2024-04-22,Not Converted,,0.0,2286.99,Alice Johnson,East,,2024-04,2024,0
+LEAD-0429,Social Media,2023-08-27,Not Converted,,0.0,3700.47,David Brown,South,,2023-08,2023,0
+LEAD-0628,Email Campaign,2024-03-25,Converted,2024-06-08,4733.97,1600.73,Bob Smith,North,75.0,2024-03,2024,1
+LEAD-0459,Email Campaign,2023-10-15,Not Converted,,0.0,4555.15,Carol White,East,,2023-10,2023,0
+LEAD-0329,Direct,2023-08-15,Not Converted,,0.0,4395.53,Carol White,East,,2023-08,2023,0
+LEAD-0624,Social Media,2024-03-13,Not Converted,,0.0,1406.48,Carol White,West,,2024-03,2024,0
+LEAD-0211,Email Campaign,2023-02-24,Converted,2023-04-28,10158.86,3282.7,Unassigned,East,63.0,2023-02,2023,1
+LEAD-0079,Email Campaign,2023-10-22,Converted,,47289.16,4812.04,Carol White,West,,2023-10,2023,1
+LEAD-0336,Referral,2024-12-06,Not Converted,,0.0,2639.44,David Brown,East,,2024-12,2024,0
+LEAD-0698,Social Media,2023-11-17,Not Converted,,0.0,4243.24,Carol White,East,,2023-11,2023,0
+LEAD-0386,Direct,2024-05-24,Converted,2024-08-11,16468.7,2639.84,Bob Smith,East,79.0,2024-05,2024,1
+LEAD-0568,Social Media,2023-11-28,Converted,,41619.61,4778.25,Alice Johnson,Unknown,,2023-11,2023,1
+LEAD-0252,Referral,2023-05-14,Converted,2023-09-09,3448.02,751.18,Carol White,South,118.0,2023-05,2023,1
+LEAD-0561,Website,2023-08-29,Not Converted,,0.0,4837.69,Alice Johnson,North,,2023-08,2023,0
+LEAD-0052,Referral,2023-03-30,Converted,,28707.56,2496.82,Carol White,North,,2023-03,2023,1
+LEAD-0463,Direct,2024-04-04,Not Converted,,0.0,253.04,Frank Miller,South,,2024-04,2024,0
+LEAD-0520,Website,2023-06-26,Converted,2023-09-30,11506.71,1171.54,Alice Johnson,South,96.0,2023-06,2023,1
+LEAD-0206,Email Campaign,2024-12-03,Not Converted,,0.0,972.62,Unassigned,Unknown,,2024-12,2024,0
+LEAD-0096,Referral,2024-02-28,Converted,2024-04-20,36615.82,1311.7,David Brown,South,52.0,2024-02,2024,1
+LEAD-0180,Email Campaign,2023-11-26,Not Converted,,0.0,1576.69,David Brown,South,,2023-11,2023,0
+LEAD-0003,Social Media,2023-08-09,Converted,2023-08-21,5287.46,4045.28,David Brown,South,12.0,2023-08,2023,1
+LEAD-0055,Direct,2024-04-09,Not Converted,,0.0,1611.96,Unassigned,East,,2024-04,2024,0
+LEAD-0437,Social Media,2023-04-11,Converted,2023-05-08,23238.74,70.34,Eve Davis,South,27.0,2023-04,2023,1
+LEAD-0670,Email Campaign,2023-08-27,Not Converted,,0.0,3100.93,Unassigned,South,,2023-08,2023,0
+LEAD-0169,Social Media,2023-08-12,Converted,2023-08-18,17554.18,4676.18,Alice Johnson,North,6.0,2023-08,2023,1
+LEAD-0236,Email Campaign,2024-04-12,Not Converted,,0.0,1554.35,Eve Davis,East,,2024-04,2024,0
+LEAD-0388,Website,2023-08-15,Converted,2023-08-17,32959.59,2366.89,Unassigned,South,2.0,2023-08,2023,1
+LEAD-0705,Email Campaign,2023-03-24,Converted,2023-04-16,35483.69,3482.84,Bob Smith,West,23.0,2023-03,2023,1
+LEAD-0183,Direct,2023-12-27,Converted,2024-03-29,24671.66,3226.96,Frank Miller,South,93.0,2023-12,2023,1
+LEAD-0549,Referral,2024-03-26,Not Converted,,0.0,3513.11,David Brown,West,,2024-03,2024,0
+LEAD-0250,Referral,2024-02-02,Converted,2024-02-25,29829.72,2639.44,Eve Davis,Unknown,23.0,2024-02,2024,1
+LEAD-0317,Email Campaign,2024-02-18,Not Converted,,0.0,1688.78,Eve Davis,West,,2024-02,2024,0
+LEAD-0238,Social Media,2024-01-21,Converted,2024-02-17,49164.23,4864.17,Alice Johnson,West,27.0,2024-01,2024,1
+LEAD-0019,Website,2023-03-02,Not Converted,,0.0,1461.98,Unassigned,West,,2023-03,2023,0
+LEAD-0447,Social Media,2024-04-19,Not Converted,,0.0,4781.62,Frank Miller,Unknown,,2024-04,2024,0
+LEAD-0330,Social Media,2023-03-25,Converted,2023-07-18,10223.38,3650.76,Frank Miller,North,115.0,2023-03,2023,1
+LEAD-0423,Direct,2024-02-05,Not Converted,,0.0,82.54,Frank Miller,West,,2024-02,2024,0
+LEAD-0112,Email Campaign,2024-06-19,Converted,2024-08-05,45937.87,3410.54,Carol White,South,47.0,2024-06,2024,1
+LEAD-0202,Email Campaign,2023-02-15,Not Converted,,0.0,574.43,Unassigned,West,,2023-02,2023,0
+LEAD-0292,Website,2023-10-30,Converted,2024-09-01,45562.65,2639.44,Alice Johnson,Unknown,307.0,2023-10,2023,1
+LEAD-0534,Social Media,2024-05-17,Not Converted,,0.0,2558.09,David Brown,Unknown,,2024-05,2024,0
+LEAD-0002,Social Media,2023-07-23,Not Converted,,0.0,2639.44,Unassigned,South,,2023-07,2023,0
+LEAD-0110,Website,2023-10-21,Converted,2024-01-08,25599.86,3969.5,Unassigned,Unknown,79.0,2023-10,2023,1
+LEAD-0136,Direct,2024-03-31,Not Converted,,0.0,2772.49,Bob Smith,East,,2024-03,2024,0
+LEAD-0151,Email Campaign,2024-06-05,Converted,2024-09-04,15339.63,3385.34,Unassigned,North,91.0,2024-06,2024,1
+LEAD-0248,Direct,2024-05-11,Not Converted,,0.0,179.01,Unassigned,North,,2024-05,2024,0
+LEAD-0154,Email Campaign,2023-08-01,Not Converted,,0.0,1603.08,Carol White,West,,2023-08,2023,0
+LEAD-0695,Website,2024-01-28,Not Converted,,0.0,4759.94,Eve Davis,East,,2024-01,2024,0
+LEAD-0061,Social Media,2023-06-10,Converted,2023-08-20,8248.36,2639.44,Unassigned,North,71.0,2023-06,2023,1
+LEAD-0675,Referral,2024-03-10,Not Converted,,0.0,4840.24,David Brown,South,,2024-03,2024,0
+LEAD-0533,Website,2024-01-21,Converted,2024-01-26,9255.02,4429.27,Carol White,South,5.0,2024-01,2024,1
+LEAD-0491,Social Media,2024-04-26,Converted,2024-06-20,20018.85,535.1,Unassigned,North,55.0,2024-04,2024,1
+LEAD-0174,Referral,2023-08-28,Not Converted,,0.0,4100.99,Frank Miller,West,,2023-08,2023,0
+LEAD-0682,Direct,2024-01-29,Not Converted,,0.0,4386.23,Unassigned,North,,2024-01,2024,0
+LEAD-0192,Email Campaign,2024-05-17,Not Converted,,0.0,3414.49,Eve Davis,North,,2024-05,2024,0
+LEAD-0483,Social Media,2023-08-30,Converted,2023-11-06,31136.59,2562.33,Bob Smith,North,68.0,2023-08,2023,1
+LEAD-0195,Social Media,2023-11-29,Converted,2024-06-01,19696.08,4530.78,Bob Smith,South,185.0,2023-11,2023,1
+LEAD-0530,Referral,2024-05-16,Not Converted,,0.0,3702.1,Alice Johnson,East,,2024-05,2024,0
+LEAD-0217,Referral,2023-05-10,Not Converted,,0.0,3819.29,Eve Davis,North,,2023-05,2023,0
+LEAD-0531,Direct,2023-12-01,Not Converted,,0.0,3322.35,David Brown,West,,2023-12,2023,0
+LEAD-0181,Direct,2024-04-25,Not Converted,,0.0,2639.44,Carol White,East,,2024-04,2024,0
+LEAD-0396,Unknown,2023-04-08,Not Converted,,0.0,1938.65,Carol White,North,,2023-04,2023,0
+LEAD-0069,Direct,2023-06-12,Not Converted,,0.0,4961.67,Alice Johnson,East,,2023-06,2023,0
+LEAD-0188,Direct,2023-12-06,Converted,2024-03-30,45998.03,3476.82,Alice Johnson,North,115.0,2023-12,2023,1
+LEAD-0039,Direct,2024-04-20,Not Converted,,0.0,4462.56,Eve Davis,South,,2024-04,2024,0
+LEAD-0505,Email Campaign,2024-06-03,Not Converted,,0.0,4007.9,Carol White,South,,2024-06,2024,0
+LEAD-0116,Unknown,2023-04-14,Not Converted,,0.0,236.85,Bob Smith,Unknown,,2023-04,2023,0
+LEAD-0269,Website,2023-09-28,Converted,2023-12-11,23915.81,3110.31,David Brown,North,74.0,2023-09,2023,1
+LEAD-0346,Unknown,2024-03-09,Not Converted,,0.0,2017.4,Eve Davis,East,,2024-03,2024,0
+LEAD-0700,Social Media,2023-10-18,Converted,2024-01-03,15790.13,4984.4,Frank Miller,West,77.0,2023-10,2023,1
+LEAD-0230,Website,2023-03-09,Not Converted,,0.0,336.63,David Brown,Unknown,,2023-03,2023,0
+LEAD-0311,Social Media,2023-03-05,Not Converted,,0.0,557.28,Frank Miller,West,,2023-03,2023,0
+LEAD-0022,Email Campaign,2024-06-19,Not Converted,,0.0,1231.5,Carol White,East,,2024-06,2024,0
+LEAD-0443,Referral,2023-05-28,Not Converted,,0.0,3954.45,Alice Johnson,South,,2023-05,2023,0
+LEAD-0499,Referral,2024-06-17,Not Converted,,0.0,4662.02,Unassigned,North,,2024-06,2024,0
+LEAD-0697,Direct,2024-03-23,Not Converted,,0.0,491.24,Unassigned,South,,2024-03,2024,0
+LEAD-0339,Email Campaign,2024-02-20,Not Converted,,0.0,3653.47,Bob Smith,East,,2024-02,2024,0
+LEAD-0602,Social Media,2023-06-08,Converted,2023-08-11,47231.44,3027.92,Eve Davis,North,64.0,2023-06,2023,1
+LEAD-0478,Social Media,2024-04-12,Converted,2024-07-28,3665.9,2995.14,Bob Smith,South,107.0,2024-04,2024,1
+LEAD-0274,Social Media,2023-02-01,Not Converted,,0.0,2955.06,Carol White,South,,2023-02,2023,0
+LEAD-0360,Website,2023-06-28,Converted,2023-09-26,23273.49,1093.22,Eve Davis,North,90.0,2023-06,2023,1
+LEAD-0706,Direct,2023-04-24,Converted,2023-06-24,16927.9,2754.8,Eve Davis,East,61.0,2023-04,2023,1
+LEAD-0004,Unknown,2024-01-06,Not Converted,,0.0,3876.69,Frank Miller,South,,2024-01,2024,0
+LEAD-0539,Unknown,2023-03-19,Not Converted,,0.0,4032.78,Unassigned,Unknown,,2023-03,2023,0
+LEAD-0098,Direct,2023-02-22,Not Converted,,0.0,815.91,Carol White,West,,2023-02,2023,0
+LEAD-0316,Referral,2024-05-17,Not Converted,,0.0,1623.4,Alice Johnson,West,,2024-05,2024,0
+LEAD-0008,Direct,2024-04-14,Not Converted,,0.0,2717.94,Eve Davis,South,,2024-04,2024,0
+LEAD-0208,Email Campaign,2023-04-27,Converted,2023-07-04,30050.06,1772.23,Frank Miller,North,68.0,2023-04,2023,1
+LEAD-0506,Social Media,2023-05-23,Converted,2023-07-02,20380.68,507.78,Eve Davis,West,40.0,2023-05,2023,1
+LEAD-0358,Direct,2024-05-19,Converted,2024-08-25,47920.66,1611.31,Eve Davis,North,98.0,2024-05,2024,1
+LEAD-0473,Website,2023-02-26,Not Converted,,0.0,448.26,Frank Miller,West,,2023-02,2023,0
+LEAD-0402,Email Campaign,2023-02-15,Not Converted,,0.0,606.24,Bob Smith,North,,2023-02,2023,0
+LEAD-0351,Website,2023-09-02,Converted,2023-09-14,39093.81,2951.1,Alice Johnson,South,12.0,2023-09,2023,1
+LEAD-0264,Direct,2023-04-10,Not Converted,,0.0,2790.33,David Brown,West,,2023-04,2023,0
+LEAD-0583,Email Campaign,2023-12-19,Not Converted,,0.0,3440.62,Unassigned,East,,2023-12,2023,0
+LEAD-0246,Social Media,2023-10-09,Converted,2024-01-31,2215.15,1510.77,Alice Johnson,South,114.0,2023-10,2023,1
+LEAD-0070,Direct,2023-10-26,Not Converted,,0.0,1256.47,Eve Davis,West,,2023-10,2023,0
+LEAD-0375,Email Campaign,2023-03-10,Not Converted,,0.0,596.26,Unassigned,Unknown,,2023-03,2023,0
+LEAD-0546,Social Media,2023-03-27,Not Converted,,0.0,4489.03,David Brown,East,,2023-03,2023,0
+LEAD-0673,Direct,2023-09-12,Not Converted,,0.0,958.55,David Brown,South,,2023-09,2023,0
+LEAD-0218,Website,2024-04-07,Converted,2024-05-29,37615.22,2300.74,Frank Miller,South,52.0,2024-04,2024,1
+LEAD-0606,Website,2024-02-01,Not Converted,,0.0,3692.77,Unassigned,North,,2024-02,2024,0
+LEAD-0253,Direct,2024-02-10,Converted,2024-03-25,16468.86,2212.5,Carol White,East,44.0,2024-02,2024,1
+LEAD-0284,Social Media,2023-11-17,Converted,2024-01-14,10864.43,834.25,Bob Smith,Unknown,58.0,2023-11,2023,1
+LEAD-0555,Direct,2024-02-25,Converted,2024-04-27,13403.65,4007.67,Bob Smith,South,62.0,2024-02,2024,1
+LEAD-0381,Referral,2023-03-05,Not Converted,,0.0,3457.61,Bob Smith,East,,2023-03,2023,0
+LEAD-0044,Website,2024-02-19,Converted,2024-06-16,49045.74,2979.87,David Brown,East,118.0,2024-02,2024,1
+LEAD-0030,Social Media,2024-04-26,Not Converted,,0.0,4111.66,Frank Miller,West,,2024-04,2024,0
+LEAD-0295,Email Campaign,2023-10-02,Not Converted,,0.0,2031.24,Unassigned,East,,2023-10,2023,0
+LEAD-0647,Social Media,2023-05-02,Not Converted,,0.0,3391.78,Unassigned,North,,2023-05,2023,0
+LEAD-0581,Email Campaign,2023-10-25,Converted,2023-12-16,25911.11,4530.11,Alice Johnson,West,52.0,2023-10,2023,1
+LEAD-0649,Email Campaign,2023-02-06,Not Converted,,0.0,2398.47,Unassigned,East,,2023-02,2023,0
+LEAD-0374,Referral,2023-09-27,Not Converted,,0.0,4009.8,Carol White,North,,2023-09,2023,0
+LEAD-0040,Email Campaign,2024-04-01,Converted,2024-05-29,37712.95,3899.49,David Brown,South,58.0,2024-04,2024,1
+LEAD-0641,Email Campaign,2023-10-29,Not Converted,,0.0,1436.36,Eve Davis,East,,2023-10,2023,0
+LEAD-0325,Social Media,2023-05-25,Converted,2023-05-26,30034.42,1558.22,Carol White,West,1.0,2023-05,2023,1
+LEAD-0047,Referral,2023-01-21,Converted,2023-02-21,23941.27,2351.92,Eve Davis,Unknown,31.0,2023-01,2023,1
+LEAD-0161,Website,2023-10-19,Not Converted,,0.0,714.29,Unassigned,South,,2023-10,2023,0
+LEAD-0395,Email Campaign,2023-09-13,Not Converted,,0.0,2866.87,Carol White,East,,2023-09,2023,0
+LEAD-0617,Direct,2023-11-26,Not Converted,,0.0,128.58,Alice Johnson,Unknown,,2023-11,2023,0
+LEAD-0426,Social Media,2023-04-06,Not Converted,,0.0,3804.29,David Brown,East,,2023-04,2023,0
+LEAD-0045,Social Media,2023-02-21,Not Converted,,0.0,3818.09,Frank Miller,South,,2023-02,2023,0
+LEAD-0326,Direct,2024-06-08,Converted,2024-07-02,31035.8,3371.34,Unassigned,West,24.0,2024-06,2024,1
+LEAD-0616,Social Media,2023-05-24,Not Converted,,0.0,4425.46,Unassigned,East,,2023-05,2023,0
+LEAD-0118,Referral,2023-11-13,Not Converted,,0.0,4922.98,David Brown,West,,2023-11,2023,0
+LEAD-0525,Website,2024-01-24,Not Converted,,0.0,661.9,Unassigned,North,,2024-01,2024,0
+LEAD-0639,Referral,2023-09-11,Not Converted,,0.0,4708.75,David Brown,South,,2023-09,2023,0
+LEAD-0571,Referral,2023-05-15,Converted,2023-08-30,25876.33,2408.38,Unassigned,South,107.0,2023-05,2023,1
+LEAD-0220,Social Media,2024-05-11,Converted,2024-05-17,31495.89,4650.69,David Brown,West,6.0,2024-05,2024,1
+LEAD-0142,Email Campaign,2023-02-12,Converted,2023-02-18,13600.47,2639.44,Frank Miller,North,6.0,2023-02,2023,1
+LEAD-0544,Referral,2023-08-30,Not Converted,,0.0,3995.37,David Brown,South,,2023-08,2023,0
+LEAD-0258,Website,2023-12-26,Not Converted,,0.0,855.15,Carol White,North,,2023-12,2023,0
+LEAD-0240,Referral,2023-11-19,Not Converted,,0.0,4720.6,Alice Johnson,East,,2023-11,2023,0
+LEAD-0409,Direct,2023-08-21,Not Converted,,0.0,4553.19,Bob Smith,East,,2023-08,2023,0
+LEAD-0182,Referral,2024-01-24,Not Converted,,0.0,3439.99,Unassigned,East,,2024-01,2024,0
+LEAD-0225,Email Campaign,2024-03-29,Converted,2024-07-22,7430.65,1790.1,Bob Smith,North,115.0,2024-03,2024,1
+LEAD-0094,Email Campaign,2023-03-17,Not Converted,,0.0,3140.37,David Brown,Unknown,,2023-03,2023,0
+LEAD-0235,Social Media,2023-07-03,Not Converted,,0.0,391.19,Frank Miller,North,,2023-07,2023,0
+LEAD-0362,Social Media,2023-08-23,Not Converted,,0.0,4288.73,Unassigned,East,,2023-08,2023,0
+LEAD-0605,Email Campaign,2023-05-16,Not Converted,,0.0,3352.74,Alice Johnson,Unknown,,2023-05,2023,0
+LEAD-0487,Email Campaign,2023-02-07,Not Converted,,0.0,3178.5,Bob Smith,North,,2023-02,2023,0
+LEAD-0656,Email Campaign,2023-11-14,Not Converted,,0.0,2639.44,David Brown,South,,2023-11,2023,0
+LEAD-0527,Referral,2024-03-14,Converted,2024-07-07,46984.56,3387.09,Eve Davis,South,115.0,2024-03,2024,1
+LEAD-0399,Direct,2024-02-08,Converted,2024-03-23,24054.81,1349.66,Unassigned,East,44.0,2024-02,2024,1
+LEAD-0363,Social Media,2023-06-30,Converted,2023-07-18,26932.14,1292.32,Alice Johnson,East,18.0,2023-06,2023,1
+LEAD-0623,Email Campaign,2023-08-22,Not Converted,,0.0,4960.16,Carol White,West,,2023-08,2023,0
+LEAD-0328,Referral,2023-11-22,Converted,2024-01-04,33141.4,2855.97,Bob Smith,North,43.0,2023-11,2023,1
+LEAD-0521,Direct,2023-04-25,Converted,,23915.81,212.32,David Brown,South,,2023-04,2023,1
+LEAD-0028,Referral,2023-09-13,Not Converted,,0.0,2061.57,Bob Smith,East,,2023-09,2023,0
+LEAD-0137,Email Campaign,2023-08-18,Not Converted,,0.0,180.11,Unassigned,West,,2023-08,2023,0
+LEAD-0651,Social Media,2023-11-09,Converted,2024-02-21,17321.2,2046.68,Carol White,Unknown,104.0,2023-11,2023,1
+LEAD-0291,Referral,2023-05-21,Converted,2023-07-26,6327.86,1033.3,Eve Davis,West,66.0,2023-05,2023,1
+LEAD-0511,Email Campaign,2023-05-21,Converted,,14828.43,1544.86,Unassigned,East,,2023-05,2023,1
+LEAD-0065,Social Media,2023-10-03,Converted,2024-01-09,23789.79,948.37,David Brown,South,98.0,2023-10,2023,1
+LEAD-0337,Email Campaign,2023-10-15,Converted,2023-11-08,18430.04,1190.21,David Brown,East,24.0,2023-10,2023,1
+LEAD-0529,Referral,2023-07-10,Not Converted,,0.0,2052.0,Unassigned,East,,2023-07,2023,0
+LEAD-0366,Social Media,2023-06-21,Not Converted,,0.0,4252.06,Bob Smith,North,,2023-06,2023,0
+LEAD-0594,Email Campaign,2023-05-31,Converted,2023-08-22,44435.2,2238.61,Frank Miller,South,83.0,2023-05,2023,1
+LEAD-0352,Direct,2023-12-23,Not Converted,,0.0,2301.06,Bob Smith,South,,2023-12,2023,0
+LEAD-0005,Email Campaign,2024-01-09,Not Converted,,0.0,3524.01,Frank Miller,East,,2024-01,2024,0
+LEAD-0133,Social Media,2023-08-30,Not Converted,,0.0,3045.22,Carol White,East,,2023-08,2023,0
+LEAD-0615,Unknown,2024-01-25,Not Converted,,0.0,275.15,Carol White,South,,2024-01,2024,0
+LEAD-0304,Unknown,2024-02-24,Not Converted,,0.0,1117.17,Carol White,South,,2024-02,2024,0
+LEAD-0245,Unknown,2023-12-06,Converted,2024-02-04,8815.47,2639.44,Bob Smith,North,60.0,2023-12,2023,1
+LEAD-0207,Email Campaign,2024-03-15,Converted,2024-06-14,10686.33,359.69,Bob Smith,North,91.0,2024-03,2024,1
+LEAD-0545,Social Media,2023-07-26,Not Converted,,0.0,3310.42,Unassigned,East,,2023-07,2023,0
+LEAD-0452,Referral,2024-01-29,Not Converted,,0.0,3366.83,Alice Johnson,East,,2024-01,2024,0
+LEAD-0305,Social Media,2023-07-05,Converted,2023-07-31,47831.42,2639.44,Frank Miller,Unknown,26.0,2023-07,2023,1
+LEAD-0489,Email Campaign,2023-08-24,Not Converted,,0.0,2978.33,Unassigned,South,,2023-08,2023,0
+LEAD-0273,Unknown,2023-07-25,Not Converted,,0.0,3537.94,Eve Davis,South,,2023-07,2023,0
+LEAD-0620,Referral,2024-03-31,Not Converted,,0.0,3418.74,Frank Miller,Unknown,,2024-03,2024,0
+LEAD-0348,Direct,2023-06-15,Not Converted,,0.0,4014.23,Alice Johnson,East,,2023-06,2023,0
+LEAD-0380,Email Campaign,2023-11-02,Not Converted,,0.0,1128.05,Carol White,North,,2023-11,2023,0
+LEAD-0413,Direct,2024-05-03,Not Converted,,0.0,960.68,Bob Smith,West,,2024-05,2024,0
+LEAD-0659,Direct,2023-07-07,Converted,2023-08-27,12364.92,3159.01,Unassigned,West,51.0,2023-07,2023,1
+LEAD-0093,Email Campaign,2023-02-14,Not Converted,,0.0,351.09,Frank Miller,South,,2023-02,2023,0
+LEAD-0658,Unknown,2023-01-11,Not Converted,,0.0,2104.51,David Brown,East,,2023-01,2023,0
+LEAD-0163,Social Media,2024-02-15,Converted,2024-04-03,16518.28,1215.83,Carol White,Unknown,48.0,2024-02,2024,1
+LEAD-0088,Unknown,2024-05-16,Not Converted,,0.0,1125.48,Carol White,South,,2024-05,2024,0
+LEAD-0025,Social Media,2023-06-09,Not Converted,,0.0,1057.81,David Brown,North,,2023-06,2023,0
+LEAD-0460,Direct,2023-08-30,Converted,2023-12-11,43169.71,768.1,David Brown,South,103.0,2023-08,2023,1
+LEAD-0051,Website,2023-06-30,Not Converted,,0.0,3884.48,Eve Davis,North,,2023-06,2023,0
+LEAD-0139,Direct,2023-03-17,Converted,2023-06-13,17553.48,3216.98,David Brown,West,88.0,2023-03,2023,1
+LEAD-0283,Referral,2023-12-17,Not Converted,,0.0,758.96,Alice Johnson,East,,2023-12,2023,0
+LEAD-0145,Website,2023-09-12,Not Converted,,0.0,989.68,David Brown,East,,2023-09,2023,0
+LEAD-0444,Website,2024-05-05,Converted,2024-06-11,30419.79,4096.89,Frank Miller,South,37.0,2024-05,2024,1
+LEAD-0293,Social Media,2023-04-03,Converted,2023-07-05,45286.58,4887.59,Frank Miller,East,93.0,2023-04,2023,1
+LEAD-0359,Direct,2024-06-07,Not Converted,,0.0,318.03,Eve Davis,North,,2024-06,2024,0
+LEAD-0179,Referral,2023-12-07,Converted,2024-01-04,48122.84,2420.66,Bob Smith,South,28.0,2023-12,2023,1
+LEAD-0271,Referral,2023-05-18,Converted,2023-08-26,13836.29,980.28,Unassigned,East,100.0,2023-05,2023,1
+LEAD-0049,Direct,2023-09-06,Not Converted,,0.0,649.22,Carol White,West,,2023-09,2023,0
+LEAD-0691,Unknown,2024-05-01,Not Converted,,0.0,132.32,Unassigned,North,,2024-05,2024,0
+LEAD-0668,Social Media,2023-12-08,Not Converted,,0.0,3577.03,Eve Davis,East,,2023-12,2023,0
+LEAD-0421,Social Media,2023-12-10,Converted,2023-12-31,9353.9,1582.12,Frank Miller,East,21.0,2023-12,2023,1
+LEAD-0302,Social Media,2023-08-17,Not Converted,,0.0,2392.01,Alice Johnson,South,,2023-08,2023,0
+LEAD-0449,Referral,2024-02-04,Not Converted,,0.0,1533.69,David Brown,North,,2024-02,2024,0
+LEAD-0588,Direct,2023-04-15,Converted,2023-06-19,8768.79,1840.11,Unassigned,West,65.0,2023-04,2023,1
+LEAD-0270,Social Media,2024-05-01,Not Converted,,0.0,1550.12,Unassigned,South,,2024-05,2024,0
+LEAD-0596,Email Campaign,2023-11-16,Not Converted,,0.0,4457.08,Frank Miller,North,,2023-11,2023,0
+LEAD-0064,Email Campaign,2024-03-24,Not Converted,,0.0,2639.44,Frank Miller,Unknown,,2024-03,2024,0
+LEAD-0474,Social Media,2024-01-29,Not Converted,,0.0,3171.55,Frank Miller,East,,2024-01,2024,0
+LEAD-0562,Email Campaign,2024-01-26,Not Converted,,0.0,2923.41,Carol White,East,,2024-01,2024,0
+LEAD-0677,Social Media,2023-11-04,Not Converted,,0.0,1323.59,David Brown,West,,2023-11,2023,0
+LEAD-0488,Social Media,2023-10-15,Converted,2024-02-02,23199.66,4437.72,Frank Miller,Unknown,110.0,2023-10,2023,1
+LEAD-0707,Referral,2024-03-31,Not Converted,,0.0,2271.78,Alice Johnson,South,,2024-03,2024,0
+LEAD-0228,Email Campaign,2023-06-26,Converted,2023-06-29,3842.86,349.32,Frank Miller,West,3.0,2023-06,2023,1
+LEAD-0387,Referral,2023-04-20,Not Converted,,0.0,4189.68,Unassigned,Unknown,,2023-04,2023,0
+LEAD-0101,Email Campaign,2023-09-08,Not Converted,,0.0,3621.9,Alice Johnson,North,,2023-09,2023,0
+LEAD-0011,Direct,2023-07-02,Converted,2023-10-22,42162.63,1900.87,Eve Davis,North,112.0,2023-07,2023,1
+LEAD-0637,Social Media,2023-05-26,Converted,2023-06-20,45679.08,1035.66,Carol White,East,25.0,2023-05,2023,1
+LEAD-0232,Direct,2023-10-03,Converted,2023-11-15,13963.04,2904.43,Carol White,North,43.0,2023-10,2023,1
+LEAD-0150,Website,2024-04-30,Converted,2024-05-20,44710.02,1626.72,Frank Miller,North,20.0,2024-04,2024,1
+LEAD-0280,Website,2023-08-16,Converted,2023-12-11,25612.09,4388.65,Bob Smith,North,117.0,2023-08,2023,1
+LEAD-0708,Unknown,2023-05-20,Not Converted,,0.0,4737.44,David Brown,North,,2023-05,2023,0
+LEAD-0657,Email Campaign,2023-09-10,Not Converted,,0.0,2328.01,Carol White,East,,2023-09,2023,0
+LEAD-0338,Email Campaign,2023-06-15,Converted,2023-07-17,6830.31,2587.58,Bob Smith,North,32.0,2023-06,2023,1
+LEAD-0068,Direct,2023-02-22,Not Converted,,0.0,2218.67,Frank Miller,Unknown,,2023-02,2023,0
+LEAD-0417,Direct,2023-02-20,Not Converted,,0.0,3879.7,Carol White,Unknown,,2023-02,2023,0
+LEAD-0113,Email Campaign,2024-01-31,Not Converted,,0.0,4536.4,Eve Davis,East,,2024-01,2024,0
+LEAD-0591,Referral,2023-05-22,Not Converted,,0.0,4761.61,Alice Johnson,East,,2023-05,2023,0
+LEAD-0277,Website,2023-12-24,Not Converted,,0.0,2639.44,Eve Davis,Unknown,,2023-12,2023,0
+LEAD-0080,Unknown,2024-05-09,Not Converted,,0.0,4963.83,Frank Miller,South,,2024-05,2024,0
+LEAD-0254,Email Campaign,2024-01-01,Not Converted,,0.0,680.37,Eve Davis,South,,2024-01,2024,0
+LEAD-0027,Website,2023-01-10,Converted,2023-05-04,27506.72,783.06,Unassigned,North,114.0,2023-01,2023,1
+LEAD-0389,Direct,2023-03-01,Not Converted,,0.0,4180.56,Eve Davis,South,,2023-03,2023,0
+LEAD-0631,Referral,2023-04-21,Converted,2023-07-07,29847.88,673.61,David Brown,Unknown,77.0,2023-04,2023,1
+LEAD-0324,Direct,2023-01-02,Converted,2023-04-11,7250.88,2751.34,Frank Miller,North,99.0,2023-01,2023,1
+LEAD-0158,Social Media,2024-06-27,Not Converted,,0.0,547.7,Eve Davis,East,,2024-06,2024,0
+LEAD-0430,Website,2023-08-06,Not Converted,,0.0,1573.47,Alice Johnson,South,,2023-08,2023,0
+LEAD-0618,Social Media,2023-06-27,Not Converted,,0.0,3824.2,Frank Miller,South,,2023-06,2023,0
+LEAD-0524,Referral,2023-06-25,Converted,2023-09-26,46249.49,2399.84,Frank Miller,South,93.0,2023-06,2023,1
+LEAD-0382,Direct,2023-12-13,Converted,2024-01-28,35215.74,1201.74,Unassigned,North,46.0,2023-12,2023,1
+LEAD-0198,Website,2023-07-25,Not Converted,,0.0,1492.67,Eve Davis,West,,2023-07,2023,0
+LEAD-0276,Direct,2023-10-01,Converted,,23915.81,3061.3,Unassigned,North,,2023-10,2023,1
+LEAD-0073,Referral,2024-02-25,Not Converted,,0.0,4066.47,Frank Miller,East,,2024-02,2024,0
+LEAD-0209,Email Campaign,2023-03-28,Not Converted,,0.0,1897.87,Eve Davis,East,,2023-03,2023,0
+LEAD-0147,Direct,2024-04-26,Not Converted,,0.0,4418.16,Carol White,North,,2024-04,2024,0
+LEAD-0436,Website,2023-02-08,Converted,2023-04-06,1734.27,991.55,Eve Davis,North,57.0,2023-02,2023,1
+LEAD-0261,Referral,2023-11-01,Converted,,28802.61,1836.1,Frank Miller,Unknown,,2023-11,2023,1
+LEAD-0086,Referral,2023-06-03,Not Converted,,0.0,4733.99,Alice Johnson,West,,2023-06,2023,0
+LEAD-0468,Email Campaign,2023-03-19,Not Converted,,0.0,3354.52,Unassigned,South,,2023-03,2023,0
+LEAD-0410,Direct,2023-07-27,Not Converted,,0.0,4552.34,Unassigned,East,,2023-07,2023,0
+LEAD-0391,Direct,2024-02-01,Not Converted,,0.0,2772.33,Eve Davis,Unknown,,2024-02,2024,0
+LEAD-0267,Referral,2023-11-24,Converted,2024-01-13,20169.07,2317.88,Eve Davis,Unknown,50.0,2023-11,2023,1
+LEAD-0262,Social Media,2023-01-27,Converted,2023-04-19,48864.36,3935.14,Carol White,South,82.0,2023-01,2023,1
+LEAD-0077,Direct,2023-11-03,Converted,2023-12-15,15021.7,2679.27,Bob Smith,East,42.0,2023-11,2023,1
+LEAD-0600,Unknown,2024-02-26,Converted,2024-05-03,44481.21,1878.01,Eve Davis,South,67.0,2024-02,2024,1
+LEAD-0285,Website,2024-02-18,Converted,2024-04-08,2367.4,119.68,Bob Smith,North,50.0,2024-02,2024,1
+LEAD-0368,Social Media,2023-08-29,Converted,2023-09-25,20153.76,2392.27,Eve Davis,South,27.0,2023-08,2023,1
+LEAD-0222,Direct,2023-08-28,Converted,2023-11-27,553.77,1169.64,Unassigned,North,91.0,2023-08,2023,1
+LEAD-0138,Social Media,2023-03-09,Not Converted,,0.0,2652.19,Alice Johnson,East,,2023-03,2023,0
+LEAD-0221,Social Media,2023-11-06,Not Converted,,0.0,1890.63,David Brown,North,,2023-11,2023,0
+LEAD-0146,Email Campaign,2023-01-24,Not Converted,,0.0,1114.96,David Brown,Unknown,,2023-01,2023,0
+LEAD-0193,Direct,2023-03-17,Not Converted,,0.0,3187.81,Alice Johnson,South,,2023-03,2023,0
+LEAD-0038,Social Media,2023-01-06,Not Converted,,0.0,3494.76,Frank Miller,South,,2023-01,2023,0
+LEAD-0243,Social Media,2023-01-02,Converted,2023-04-14,12867.71,2639.44,Bob Smith,West,102.0,2023-01,2023,1
+LEAD-0046,Social Media,2024-04-26,Not Converted,,0.0,1159.9,Alice Johnson,North,,2024-04,2024,0
+LEAD-0627,Direct,2023-12-09,Not Converted,,0.0,4170.96,Bob Smith,South,,2023-12,2023,0
+LEAD-0694,Email Campaign,2023-06-22,Converted,2023-08-23,12424.63,3315.74,Unassigned,North,62.0,2023-06,2023,1
+LEAD-0523,Referral,2023-12-23,Converted,2024-04-11,39149.71,388.27,Eve Davis,West,110.0,2023-12,2023,1
+LEAD-0612,Email Campaign,2024-02-21,Converted,2024-02-25,31860.29,2792.67,Unassigned,West,4.0,2024-02,2024,1
+LEAD-0361,Referral,2023-08-31,Converted,2023-11-18,18613.25,3518.53,Carol White,East,79.0,2023-08,2023,1
+LEAD-0536,Website,2024-02-26,Converted,2024-05-21,12756.89,4556.43,Carol White,East,85.0,2024-02,2024,1
+LEAD-0321,Referral,2024-03-21,Converted,2024-03-25,23915.81,318.63,Eve Davis,West,4.0,2024-03,2024,1
+LEAD-0503,Social Media,2023-02-12,Not Converted,,0.0,1065.52,Carol White,East,,2023-02,2023,0
+LEAD-0144,Social Media,2024-01-15,Not Converted,,0.0,1373.98,Carol White,South,,2024-01,2024,0
+LEAD-0652,Direct,2023-02-02,Converted,2023-03-17,31677.05,4341.38,David Brown,South,43.0,2023-02,2023,1
+LEAD-0547,Email Campaign,2024-05-27,Not Converted,,0.0,3886.82,Alice Johnson,West,,2024-05,2024,0
+LEAD-0301,Website,2023-02-06,Not Converted,,0.0,4456.05,David Brown,North,,2023-02,2023,0
+LEAD-0614,Email Campaign,2024-03-09,Converted,2024-03-15,40725.86,3282.64,David Brown,North,6.0,2024-03,2024,1
+LEAD-0048,Direct,2023-04-28,Not Converted,,0.0,2900.19,Unassigned,West,,2023-04,2023,0
+LEAD-0308,Referral,2023-08-03,Not Converted,,0.0,706.73,Bob Smith,West,,2023-08,2023,0
+LEAD-0255,Direct,2023-02-03,Not Converted,,0.0,3076.34,David Brown,East,,2023-02,2023,0
+LEAD-0001,Social Media,2023-10-09,Not Converted,,0.0,2639.44,Bob Smith,West,,2023-10,2023,0
+LEAD-0434,Social Media,2023-12-14,Not Converted,,0.0,1978.35,Unassigned,North,,2023-12,2023,0
+LEAD-0176,Direct,2024-01-26,Not Converted,,0.0,1913.48,Frank Miller,West,,2024-01,2024,0
+LEAD-0558,Direct,2023-07-28,Not Converted,,0.0,2184.98,Frank Miller,North,,2023-07,2023,0
+LEAD-0373,Direct,2023-01-08,Not Converted,,0.0,2213.68,Frank Miller,South,,2023-01,2023,0
+LEAD-0630,Referral,2023-11-01,Not Converted,,0.0,1731.1,David Brown,West,,2023-11,2023,0
+LEAD-0519,Direct,2023-04-27,Converted,2023-08-23,6270.0,1773.64,David Brown,Unknown,118.0,2023-04,2023,1
+LEAD-0660,Website,2023-05-05,Converted,2023-08-10,25467.54,865.95,Alice Johnson,South,97.0,2023-05,2023,1
+LEAD-0087,Social Media,2024-02-02,Not Converted,,0.0,4732.57,Bob Smith,South,,2024-02,2024,0
+LEAD-0036,Email Campaign,2023-08-07,Converted,2023-11-17,33113.11,3115.34,Bob Smith,North,102.0,2023-08,2023,1
+LEAD-0263,Website,2023-07-09,Not Converted,,0.0,2226.72,Eve Davis,North,,2023-07,2023,0
+LEAD-0576,Email Campaign,2023-09-29,Converted,2023-10-27,4371.92,3383.37,David Brown,South,28.0,2023-09,2023,1
+LEAD-0090,Social Media,2023-12-08,Converted,2024-03-18,10657.68,2952.6,Unassigned,East,101.0,2023-12,2023,1
+LEAD-0166,Email Campaign,2023-08-12,Not Converted,,0.0,2664.46,Alice Johnson,North,,2023-08,2023,0
+LEAD-0212,Social Media,2023-02-01,Not Converted,,0.0,882.63,Unassigned,East,,2023-02,2023,0
+LEAD-0589,Unknown,2023-04-12,Not Converted,,0.0,2223.59,Bob Smith,East,,2023-04,2023,0
+LEAD-0132,Direct,2023-02-28,Not Converted,,0.0,3413.08,Eve Davis,East,,2023-02,2023,0
+LEAD-0041,Referral,2023-10-06,Not Converted,,0.0,1194.74,Alice Johnson,South,,2023-10,2023,0
+LEAD-0126,Social Media,2024-01-01,Not Converted,,0.0,563.14,Bob Smith,North,,2024-01,2024,0
+LEAD-0322,Website,2024-02-02,Not Converted,,0.0,2697.43,Unassigned,Unknown,,2024-02,2024,0
+LEAD-0458,Direct,2024-04-29,Converted,2024-07-12,32987.83,185.13,Alice Johnson,North,74.0,2024-04,2024,1
+LEAD-0569,Website,2023-05-13,Converted,2023-08-24,16496.96,4761.91,Bob Smith,West,103.0,2023-05,2023,1
+LEAD-0006,Referral,2023-06-17,Not Converted,,0.0,3456.4,Unassigned,North,,2023-06,2023,0
+LEAD-0185,Direct,2024-09-05,Converted,,23915.81,3624.85,Eve Davis,South,,2024-09,2024,1
+LEAD-0634,Website,2023-12-19,Not Converted,,0.0,1740.68,David Brown,Unknown,,2023-12,2023,0
+LEAD-0676,Website,2024-12-02,Converted,,21423.51,821.6,Unassigned,South,,2024-12,2024,1
+LEAD-0213,Social Media,2023-04-27,Not Converted,,0.0,3812.02,David Brown,South,,2023-04,2023,0
+LEAD-0128,Referral,2024-11-06,Not Converted,,0.0,1466.25,Frank Miller,North,,2024-11,2024,0
+LEAD-0552,Unknown,2023-06-14,Not Converted,,0.0,2639.44,Frank Miller,East,,2023-06,2023,0
+LEAD-0599,Referral,2023-10-19,Converted,2024-01-19,26223.5,2932.73,Alice Johnson,East,92.0,2023-10,2023,1
+LEAD-0532,Email Campaign,2024-05-17,Not Converted,,0.0,2639.44,David Brown,South,,2024-05,2024,0
+LEAD-0625,Direct,2023-08-18,Not Converted,,0.0,1615.4,Eve Davis,North,,2023-08,2023,0
+LEAD-0645,Email Campaign,2023-12-27,Not Converted,,0.0,1715.05,Carol White,East,,2023-12,2023,0
+LEAD-0543,Referral,2023-06-04,Not Converted,,0.0,4560.13,Carol White,North,,2023-06,2023,0
+LEAD-0550,Direct,2023-05-29,Converted,2023-08-29,23915.81,222.31,Alice Johnson,West,92.0,2023-05,2023,1
+LEAD-0570,Unknown,2024-02-13,Converted,2024-06-02,8565.56,3775.16,David Brown,South,110.0,2024-02,2024,1
+LEAD-0184,Direct,2023-02-19,Not Converted,,0.0,386.44,David Brown,North,,2023-02,2023,0
+LEAD-0021,Email Campaign,2023-03-24,Converted,2023-06-09,33923.02,4456.92,Eve Davis,South,77.0,2023-03,2023,1
+LEAD-0416,Direct,2023-02-09,Converted,2023-08-04,23915.81,2617.58,Eve Davis,South,176.0,2023-02,2023,1
+LEAD-0190,Referral,2024-02-03,Not Converted,,0.0,3962.97,Unassigned,North,,2024-02,2024,0
+LEAD-0551,Website,2023-11-13,Converted,2024-01-21,42953.53,1995.23,Alice Johnson,West,69.0,2023-11,2023,1
+LEAD-0066,Website,2023-12-08,Converted,2024-03-27,16825.28,4728.71,David Brown,South,110.0,2023-12,2023,1
+LEAD-0334,Website,2023-08-28,Not Converted,,0.0,1971.06,Alice Johnson,North,,2023-08,2023,0
+LEAD-0102,Direct,2023-02-20,Not Converted,,0.0,2100.21,Carol White,South,,2023-02,2023,0
+LEAD-0129,Direct,2024-12-01,Not Converted,,0.0,1963.89,David Brown,North,,2024-12,2024,0
+LEAD-0586,Website,2023-06-12,Not Converted,,0.0,614.15,David Brown,North,,2023-06,2023,0
+LEAD-0306,Email Campaign,2023-07-01,Converted,2023-10-03,5625.92,1643.13,Eve Davis,West,94.0,2023-07,2023,1
+LEAD-0299,Unknown,2023-02-25,Converted,,42667.62,2483.66,Alice Johnson,West,,2023-02,2023,1
+LEAD-0496,Website,2023-09-02,Converted,2023-11-25,37000.31,3529.08,Carol White,North,84.0,2023-09,2023,1
+LEAD-0394,Referral,2023-08-08,Converted,2023-11-15,45996.05,2879.48,Bob Smith,East,99.0,2023-08,2023,1
+LEAD-0186,Social Media,2023-04-20,Not Converted,,0.0,4085.31,Carol White,South,,2023-04,2023,0
+LEAD-0672,Website,2023-02-10,Not Converted,,0.0,1183.6,Bob Smith,West,,2023-02,2023,0
+LEAD-0097,Social Media,2023-06-04,Converted,2023-07-11,40682.58,2829.85,Carol White,South,37.0,2023-06,2023,1
+LEAD-0281,Email Campaign,2023-07-07,Converted,2023-08-05,11554.73,4439.88,David Brown,South,29.0,2023-07,2023,1
+LEAD-0492,Website,2023-08-12,Not Converted,,0.0,499.11,Unassigned,East,,2023-08,2023,0
+LEAD-0640,Social Media,2023-07-14,Not Converted,,0.0,4886.06,Eve Davis,Unknown,,2023-07,2023,0
+LEAD-0587,Direct,2023-12-30,Not Converted,,0.0,3546.7,David Brown,South,,2023-12,2023,0
+LEAD-0601,Email Campaign,2024-05-25,Converted,2024-08-22,36719.99,2553.64,Unassigned,West,89.0,2024-05,2024,1
+LEAD-0024,Email Campaign,2023-11-06,Not Converted,,0.0,1531.92,Bob Smith,North,,2023-11,2023,0
+LEAD-0522,Social Media,2023-03-09,Converted,2023-06-14,39227.36,4510.82,Alice Johnson,East,97.0,2023-03,2023,1
+LEAD-0662,Direct,2024-04-20,Converted,2024-04-29,27647.21,744.27,Bob Smith,North,9.0,2024-04,2024,1
+LEAD-0125,Social Media,2024-06-22,Not Converted,,0.0,150.65,David Brown,North,,2024-06,2024,0
+LEAD-0085,Direct,2023-09-26,Not Converted,,0.0,586.31,Eve Davis,North,,2023-09,2023,0
+LEAD-0120,Social Media,2023-07-10,Not Converted,,0.0,4092.68,David Brown,North,,2023-07,2023,0
+LEAD-0123,Direct,2023-10-23,Not Converted,,0.0,360.9,Eve Davis,North,,2023-10,2023,0
+LEAD-0012,Email Campaign,2023-01-20,Not Converted,,0.0,1572.19,Alice Johnson,South,,2023-01,2023,0
+LEAD-0377,Website,2024-03-06,Converted,2024-04-23,23915.81,4225.55,Unassigned,South,48.0,2024-03,2024,1
+LEAD-0456,Email Campaign,2023-04-01,Converted,2023-06-21,34361.66,3084.54,Alice Johnson,East,81.0,2023-04,2023,1
+LEAD-0648,Email Campaign,2023-05-22,Not Converted,,0.0,3926.48,Eve Davis,North,,2023-05,2023,0
+LEAD-0282,Unknown,2023-03-14,Not Converted,,0.0,1939.26,Frank Miller,East,,2023-03,2023,0
+LEAD-0392,Website,2023-11-19,Not Converted,,0.0,4139.47,Eve Davis,West,,2023-11,2023,0
+LEAD-0475,Social Media,2023-02-06,Converted,2023-05-10,12305.01,3234.87,Unassigned,East,93.0,2023-02,2023,1
+LEAD-0709,Referral,2023-02-23,Not Converted,,0.0,2407.42,Alice Johnson,East,,2023-02,2023,0
+LEAD-0710,Direct,2024-02-06,Converted,2024-09-24,31176.86,1637.44,Frank Miller,South,231.0,2024-02,2024,1
+LEAD-0177,Direct,2023-05-28,Converted,2023-08-08,48405.42,1252.15,David Brown,North,72.0,2023-05,2023,1
+LEAD-0611,Website,2023-09-22,Converted,2023-09-29,12361.34,2567.68,Carol White,North,7.0,2023-09,2023,1
+LEAD-0310,Unknown,2024-03-08,Not Converted,,0.0,3367.76,Bob Smith,North,,2024-03,2024,0
+LEAD-0501,Email Campaign,2024-04-13,Not Converted,,0.0,900.1,Carol White,North,,2024-04,2024,0
+LEAD-0407,Email Campaign,2023-11-09,Converted,2023-12-30,1409.43,1546.51,Carol White,North,51.0,2023-11,2023,1
+LEAD-0247,Social Media,2024-03-05,Not Converted,,0.0,2639.44,Unassigned,North,,2024-03,2024,0
+LEAD-0122,Social Media,2024-04-25,Not Converted,,0.0,1117.49,Eve Davis,West,,2024-04,2024,0
+LEAD-0035,Referral,2024-06-03,Converted,,15397.02,1470.22,Frank Miller,North,,2024-06,2024,1
+LEAD-0251,Referral,2024-05-19,Not Converted,,0.0,1201.49,Alice Johnson,North,,2024-05,2024,0
+LEAD-0414,Website,2023-01-16,Not Converted,,0.0,1054.03,David Brown,Unknown,,2023-01,2023,0
+LEAD-0643,Email Campaign,2024-05-21,Not Converted,,0.0,3963.59,Bob Smith,East,,2024-05,2024,0
+LEAD-0153,Direct,2023-04-23,Converted,2023-06-19,21229.62,2534.01,Frank Miller,North,57.0,2023-04,2023,1
+LEAD-0445,Email Campaign,2024-04-17,Not Converted,,0.0,2762.35,Carol White,West,,2024-04,2024,0
+LEAD-0608,Social Media,2023-05-04,Converted,2023-05-07,39444.47,4443.9,Eve Davis,North,3.0,2023-05,2023,1
+LEAD-0347,Email Campaign,2024-05-10,Not Converted,,0.0,2020.74,Alice Johnson,West,,2024-05,2024,0
+LEAD-0666,Social Media,2023-06-21,Converted,2023-08-14,5830.35,988.26,David Brown,South,54.0,2023-06,2023,1
+LEAD-0528,Website,2024-02-15,Converted,2024-05-20,3703.17,2995.06,Frank Miller,South,95.0,2024-02,2024,1
+LEAD-0121,Website,2023-08-30,Converted,2023-10-17,1895.28,3267.31,Carol White,East,48.0,2023-08,2023,1
+LEAD-0486,Social Media,2023-11-30,Converted,2023-12-31,43559.37,2381.4,Bob Smith,West,31.0,2023-11,2023,1
+LEAD-0365,Email Campaign,2023-06-28,Not Converted,,0.0,3884.98,Eve Davis,North,,2023-06,2023,0
+LEAD-0099,Direct,2023-10-13,Not Converted,,0.0,4874.01,Frank Miller,West,,2023-10,2023,0
+LEAD-0058,Email Campaign,2023-10-19,Converted,2023-12-15,9626.0,2414.76,Alice Johnson,Unknown,57.0,2023-10,2023,1
+LEAD-0173,Social Media,2023-04-14,Converted,2023-06-11,33765.17,268.97,Unassigned,North,58.0,2023-04,2023,1
+LEAD-0438,Social Media,2023-04-16,Not Converted,,0.0,3212.31,Carol White,North,,2023-04,2023,0
+LEAD-0152,Referral,2023-08-22,Not Converted,,0.0,3619.86,Frank Miller,West,,2023-08,2023,0
+LEAD-0105,Social Media,2024-03-22,Converted,2024-07-18,43174.45,3562.02,Alice Johnson,North,118.0,2024-03,2024,1
+LEAD-0590,Email Campaign,2023-06-25,Not Converted,,0.0,1835.18,Unassigned,West,,2023-06,2023,0
+LEAD-0371,Direct,2024-06-30,Not Converted,,0.0,2237.21,Carol White,North,,2024-06,2024,0
+LEAD-0010,Email Campaign,2023-01-12,Not Converted,,0.0,1733.87,Alice Johnson,North,,2023-01,2023,0
+LEAD-0667,Social Media,2024-01-01,Converted,2024-03-01,23915.81,2320.94,Frank Miller,Unknown,60.0,2024-01,2024,1
+LEAD-0201,Email Campaign,2024-03-04,Converted,2024-06-14,35230.9,4576.29,Frank Miller,North,102.0,2024-03,2024,1
+LEAD-0224,Direct,2023-05-27,Not Converted,,0.0,862.38,Unassigned,East,,2023-05,2023,0
+LEAD-0215,Unknown,2024-03-14,Not Converted,,0.0,4036.93,Eve Davis,West,,2024-03,2024,0
+LEAD-0149,Social Media,2024-02-08,Not Converted,,0.0,1035.34,Alice Johnson,North,,2024-02,2024,0
+LEAD-0495,Social Media,2024-06-11,Converted,2024-06-26,18596.75,917.57,Unassigned,West,15.0,2024-06,2024,1
+LEAD-0453,Email Campaign,2024-03-23,Converted,2024-10-04,43077.56,4655.04,David Brown,West,195.0,2024-03,2024,1
+LEAD-0141,Email Campaign,2023-10-09,Not Converted,,0.0,2979.45,Eve Davis,Unknown,,2023-10,2023,0
+LEAD-0592,Social Media,2024-06-13,Converted,2024-07-27,20381.72,2639.44,Eve Davis,North,44.0,2024-06,2024,1
